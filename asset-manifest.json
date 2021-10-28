@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/frontend-mentor-intermediate-job-listings/static/css/main.a617e044.chunk.css",
-    "main.js": "/frontend-mentor-intermediate-job-listings/static/js/main.1244702c.chunk.js",
-    "main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/main.1244702c.chunk.js.map",
+    "main.css": "/frontend-mentor-intermediate-job-listings/static/css/main.61830f72.chunk.css",
+    "main.js": "/frontend-mentor-intermediate-job-listings/static/js/main.4742e265.chunk.js",
+    "main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/main.4742e265.chunk.js.map",
     "runtime-main.js": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.be224176.js",
     "runtime-main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.be224176.js.map",
-    "static/js/2.073174a2.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/2.073174a2.chunk.js",
-    "static/js/2.073174a2.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/2.073174a2.chunk.js.map",
+    "static/js/2.95476495.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/2.95476495.chunk.js",
+    "static/js/2.95476495.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/2.95476495.chunk.js.map",
     "static/js/3.0848fe17.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/3.0848fe17.chunk.js",
     "static/js/3.0848fe17.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/3.0848fe17.chunk.js.map",
     "index.html": "/frontend-mentor-intermediate-job-listings/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/frontend-mentor-intermediate-job-listings/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.073174a2.chunk.js.LICENSE.txt": "/frontend-mentor-intermediate-job-listings/static/js/2.073174a2.chunk.js.LICENSE.txt",
+    "static/css/main.61830f72.chunk.css.map": "/frontend-mentor-intermediate-job-listings/static/css/main.61830f72.chunk.css.map",
+    "static/js/2.95476495.chunk.js.LICENSE.txt": "/frontend-mentor-intermediate-job-listings/static/js/2.95476495.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/frontend-mentor-intermediate-job-listings/static/media/bg-header-mobile.9cb13612.svg",
     "static/media/logo.6ce24c58.svg": "/frontend-mentor-intermediate-job-listings/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.be224176.js",
-    "static/js/2.073174a2.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.1244702c.chunk.js"
+    "static/js/2.95476495.chunk.js",
+    "static/css/main.61830f72.chunk.css",
+    "static/js/main.4742e265.chunk.js"
   ]
 }
