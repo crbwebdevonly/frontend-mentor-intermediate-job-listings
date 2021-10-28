@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/css/main.a617e044.chunk.css",
+    "main.js": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/js/main.4b8f67a6.chunk.js",
+    "main.js.map": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/js/main.4b8f67a6.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/js/runtime-main.cef8cef5.js",
+    "runtime-main.js.map": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/js/runtime-main.cef8cef5.js.map",
+    "static/js/2.073174a2.chunk.js": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/js/2.073174a2.chunk.js",
+    "static/js/2.073174a2.chunk.js.map": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/js/2.073174a2.chunk.js.map",
+    "static/js/3.0848fe17.chunk.js": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/js/3.0848fe17.chunk.js",
+    "static/js/3.0848fe17.chunk.js.map": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/js/3.0848fe17.chunk.js.map",
+    "index.html": "/frontend-mentor-intermediate-ecommerce-product-page-main/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.073174a2.chunk.js.LICENSE.txt": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/js/2.073174a2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/frontend-mentor-intermediate-ecommerce-product-page-main/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef8cef5.js",
+    "static/js/2.073174a2.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4b8f67a6.chunk.js"
+  ]
+}
