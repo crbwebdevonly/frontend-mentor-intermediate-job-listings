@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/frontend-mentor-intermediate-job-listings/static/css/main.61830f72.chunk.css",
-    "main.js": "/frontend-mentor-intermediate-job-listings/static/js/main.4742e265.chunk.js",
-    "main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/main.4742e265.chunk.js.map",
-    "runtime-main.js": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.be224176.js",
-    "runtime-main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.be224176.js.map",
-    "static/js/2.95476495.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/2.95476495.chunk.js",
-    "static/js/2.95476495.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/2.95476495.chunk.js.map",
-    "static/js/3.0848fe17.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/3.0848fe17.chunk.js",
-    "static/js/3.0848fe17.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/3.0848fe17.chunk.js.map",
+    "main.css": "/frontend-mentor-intermediate-job-listings/static/css/main.4c53af48.chunk.css",
+    "main.js": "/frontend-mentor-intermediate-job-listings/static/js/main.aff1b13d.chunk.js",
+    "main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/main.aff1b13d.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.033bf420.js",
+    "runtime-main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.033bf420.js.map",
+    "static/js/2.a3315dcd.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/2.a3315dcd.chunk.js",
+    "static/js/2.a3315dcd.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/2.a3315dcd.chunk.js.map",
+    "static/js/3.c091ef8c.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/3.c091ef8c.chunk.js",
+    "static/js/3.c091ef8c.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/3.c091ef8c.chunk.js.map",
     "index.html": "/frontend-mentor-intermediate-job-listings/index.html",
-    "static/css/main.61830f72.chunk.css.map": "/frontend-mentor-intermediate-job-listings/static/css/main.61830f72.chunk.css.map",
-    "static/js/2.95476495.chunk.js.LICENSE.txt": "/frontend-mentor-intermediate-job-listings/static/js/2.95476495.chunk.js.LICENSE.txt",
+    "static/css/main.4c53af48.chunk.css.map": "/frontend-mentor-intermediate-job-listings/static/css/main.4c53af48.chunk.css.map",
+    "static/js/2.a3315dcd.chunk.js.LICENSE.txt": "/frontend-mentor-intermediate-job-listings/static/js/2.a3315dcd.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/frontend-mentor-intermediate-job-listings/static/media/bg-header-mobile.9cb13612.svg",
+    "static/media/icon-remove.70c075ce.svg": "/frontend-mentor-intermediate-job-listings/static/media/icon-remove.70c075ce.svg",
     "static/media/logo.6ce24c58.svg": "/frontend-mentor-intermediate-job-listings/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be224176.js",
-    "static/js/2.95476495.chunk.js",
-    "static/css/main.61830f72.chunk.css",
-    "static/js/main.4742e265.chunk.js"
+    "static/js/runtime-main.033bf420.js",
+    "static/js/2.a3315dcd.chunk.js",
+    "static/css/main.4c53af48.chunk.css",
+    "static/js/main.aff1b13d.chunk.js"
   ]
 }
