@@ -1,0 +1,11 @@
+const Image1 = require("../images/photosnap.svg")
+const Image2 = require("../images/manage.svg")
+const Image3 = require("../images/account.svg")
+const Image4 = require("../images//myhome.svg")
+const Image5 = require("../images/loop-studios.svg")
+const Image6 = require("../images/faceit.svg")
+const Image7 = require("../images/shortly.svg")
+const Image8 = require("../images/insure.svg")
+const Image9 = require("../images/eyecam-co.svg")
+const Image10 = require("../images/the-air-filter-company.svg")
+

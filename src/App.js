@@ -4,7 +4,57 @@ import Card from "./components/Card";
 import { data } from "./data";
 import Filter from "./components/Filter";
 import { useEffect, useState } from "react";
+//======================================================
+const ImageD = require("./images/delete.JPG");
+const Image1 = require("./images/photosnap.svg").default;
+const Image2 = require("./images/manage.svg").default;
+const Image3 = require("./images/account.svg").default;
+const Image4 = require("./images//myhome.svg").default;
+const Image5 = require("./images/loop-studios.svg").default;
+const Image6 = require("./images/faceit.svg").default;
+const Image7 = require("./images/shortly.svg").default;
+const Image8 = require("./images/insure.svg").default;
+const Image9 = require("./images/eyecam-co.svg").default;
+const Image10 = require("./images/the-air-filter-company.svg").default;
+const imageArray = [
+     Image1,
+     Image2,
+     Image3,
+     Image4,
+     Image5,
+     Image6,
+     Image7,
+     Image8,
+     Image9,
+     Image10,
+];
+const imageObj2 = {
+     Image1,
+     Image2,
+     Image3,
+     Image4,
+     Image5,
+     Image6,
+     Image7,
+     Image8,
+     Image9,
+     Image10,
+};
 
+const imageObj = {
+     Image1: require("./images/photosnap.svg").default,
+     Image2: require("./images/manage.svg").default,
+};
+
+// const Image3 = require("./images/account.svg").default;
+// const Image4 = require("./images//myhome.svg").default;
+// const Image5 = require("./images/loop-studios.svg").default;
+// const Image6 = require("./images/faceit.svg").default;
+// const Image7 = require("./images/shortly.svg").default;
+// const Image8 = require("./images/insure.svg").default;
+// const Image9 = require("./images/eyecam-co.svg").default;
+// const Image10 = require("./images/the-air-filter-company.svg").default;
+// }
 function App() {
      //======================================================
      //======================================================
@@ -72,6 +122,7 @@ function App() {
      }, [filters]);
 
      //======================================================
+     // console.log(imageArray);
      //======================================================
      return (
           <div className="App-container">
@@ -91,6 +142,7 @@ function App() {
                               key={e.id}
                               setFilters={setFilters}
                               filters={filters}
+                              // imageArray={imageArray}
                          />
                     ))}
                </div>

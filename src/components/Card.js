@@ -1,5 +1,31 @@
 import React from "react";
 import styled from "styled-components";
+//======================================================
+
+const Image1 = require("../images/photosnap.svg").default;
+const Image2 = require("../images/manage.svg").default;
+const Image3 = require("../images/account.svg").default;
+const Image4 = require("../images//myhome.svg").default;
+const Image5 = require("../images/loop-studios.svg").default;
+const Image6 = require("../images/faceit.svg").default;
+const Image7 = require("../images/shortly.svg").default;
+const Image8 = require("../images/insure.svg").default;
+const Image9 = require("../images/eyecam-co.svg").default;
+const Image10 = require("../images/the-air-filter-company.svg").default;
+const imageArray = [
+     Image1,
+     Image2,
+     Image3,
+     Image4,
+     Image5,
+     Image6,
+     Image7,
+     Image8,
+     Image9,
+     Image10,
+];
+
+// const Image1 = require("../images/photosnap.svg");
 
 //======================================================
 // import {data: } from "../data"
@@ -31,8 +57,10 @@ const StyledLogo1 = styled.div`
 //======================================================
 //======================================================
 //======================================================
-const Card = ({ data, setFilters, filters }) => {
+const Card = ({ data, setFilters, filters, imageArray }) => {
      //======================================================
+     // console.log(imageArray);
+     console.log(data);
      //======================================================
      const handleAddFilterClick = (e) => {
           // console.log(e.target.innerHTML);
@@ -72,15 +100,16 @@ const Card = ({ data, setFilters, filters }) => {
           <div className={data.featured ? "card featured" : "card"}>
                <div className="top">
                     <div className="logo">
-                         <StyledLogo1 logoPath={data.logo}></StyledLogo1>
-                         {/* <StyledImg1 src={data.logo} alt="" /> */}
-                         {/* <img
-                              src={require("../images/manage.svg").default}
-                              // src={require(`. + ${data.logo}).default}
-                              alt=""
-                         /> */}
-                         {/* <img src={()=>{return "../images/manage.svg"}}} alt="" /> */}
-                         {/* <img src={require(`. + ${data.logo}`).default} alt="" /> */}
+                         {data.id === 1 && <img src={Image1} alt="" />}
+                         {data.id === 2 && <img src={Image2} alt="" />}
+                         {data.id === 3 && <img src={Image3} alt="" />}
+                         {data.id === 4 && <img src={Image4} alt="" />}
+                         {data.id === 5 && <img src={Image5} alt="" />}
+                         {data.id === 6 && <img src={Image6} alt="" />}
+                         {data.id === 7 && <img src={Image7} alt="" />}
+                         {data.id === 8 && <img src={Image8} alt="" />}
+                         {data.id === 9 && <img src={Image9} alt="" />}
+                         {data.id === 10 && <img src={Image10} alt="" />}
                     </div>
                     <div className="info-wrap">
                          <div className="line1">
