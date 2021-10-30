@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/frontend-mentor-intermediate-job-listings/static/css/main.53d8f461.chunk.css",
-    "main.js": "/frontend-mentor-intermediate-job-listings/static/js/main.c88cf4a1.chunk.js",
-    "main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/main.c88cf4a1.chunk.js.map",
+    "main.js": "/frontend-mentor-intermediate-job-listings/static/js/main.7b9ba1f9.chunk.js",
+    "main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/main.7b9ba1f9.chunk.js.map",
     "runtime-main.js": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.b589f135.js",
     "runtime-main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.b589f135.js.map",
     "static/js/2.e0ec077f.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/2.e0ec077f.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.b589f135.js",
     "static/js/2.e0ec077f.chunk.js",
     "static/css/main.53d8f461.chunk.css",
-    "static/js/main.c88cf4a1.chunk.js"
+    "static/js/main.7b9ba1f9.chunk.js"
   ]
 }
