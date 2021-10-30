@@ -1,25 +1,36 @@
 {
   "files": {
-    "main.css": "/frontend-mentor-intermediate-job-listings/static/css/main.4c53af48.chunk.css",
-    "main.js": "/frontend-mentor-intermediate-job-listings/static/js/main.aff1b13d.chunk.js",
-    "main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/main.aff1b13d.chunk.js.map",
-    "runtime-main.js": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.033bf420.js",
-    "runtime-main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.033bf420.js.map",
-    "static/js/2.a3315dcd.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/2.a3315dcd.chunk.js",
-    "static/js/2.a3315dcd.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/2.a3315dcd.chunk.js.map",
-    "static/js/3.c091ef8c.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/3.c091ef8c.chunk.js",
-    "static/js/3.c091ef8c.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/3.c091ef8c.chunk.js.map",
+    "main.css": "/frontend-mentor-intermediate-job-listings/static/css/main.53d8f461.chunk.css",
+    "main.js": "/frontend-mentor-intermediate-job-listings/static/js/main.c88cf4a1.chunk.js",
+    "main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/main.c88cf4a1.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.b589f135.js",
+    "runtime-main.js.map": "/frontend-mentor-intermediate-job-listings/static/js/runtime-main.b589f135.js.map",
+    "static/js/2.e0ec077f.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/2.e0ec077f.chunk.js",
+    "static/js/2.e0ec077f.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/2.e0ec077f.chunk.js.map",
+    "static/js/3.446eb58b.chunk.js": "/frontend-mentor-intermediate-job-listings/static/js/3.446eb58b.chunk.js",
+    "static/js/3.446eb58b.chunk.js.map": "/frontend-mentor-intermediate-job-listings/static/js/3.446eb58b.chunk.js.map",
     "index.html": "/frontend-mentor-intermediate-job-listings/index.html",
-    "static/css/main.4c53af48.chunk.css.map": "/frontend-mentor-intermediate-job-listings/static/css/main.4c53af48.chunk.css.map",
-    "static/js/2.a3315dcd.chunk.js.LICENSE.txt": "/frontend-mentor-intermediate-job-listings/static/js/2.a3315dcd.chunk.js.LICENSE.txt",
+    "static/css/main.53d8f461.chunk.css.map": "/frontend-mentor-intermediate-job-listings/static/css/main.53d8f461.chunk.css.map",
+    "static/js/2.e0ec077f.chunk.js.LICENSE.txt": "/frontend-mentor-intermediate-job-listings/static/js/2.e0ec077f.chunk.js.LICENSE.txt",
+    "static/media/account.svg": "/frontend-mentor-intermediate-job-listings/static/media/account.903d6cd0.svg",
     "static/media/App.scss": "/frontend-mentor-intermediate-job-listings/static/media/bg-header-mobile.9cb13612.svg",
+    "static/media/delete.JPG": "/frontend-mentor-intermediate-job-listings/static/media/delete.b6e38f41.JPG",
+    "static/media/eyecam-co.svg": "/frontend-mentor-intermediate-job-listings/static/media/eyecam-co.0abb14e8.svg",
+    "static/media/faceit.svg": "/frontend-mentor-intermediate-job-listings/static/media/faceit.54a148ce.svg",
     "static/media/icon-remove.70c075ce.svg": "/frontend-mentor-intermediate-job-listings/static/media/icon-remove.70c075ce.svg",
-    "static/media/logo.6ce24c58.svg": "/frontend-mentor-intermediate-job-listings/static/media/logo.6ce24c58.svg"
+    "static/media/insure.svg": "/frontend-mentor-intermediate-job-listings/static/media/insure.4d535e7e.svg",
+    "static/media/logo.6ce24c58.svg": "/frontend-mentor-intermediate-job-listings/static/media/logo.6ce24c58.svg",
+    "static/media/loop-studios.svg": "/frontend-mentor-intermediate-job-listings/static/media/loop-studios.7778c957.svg",
+    "static/media/manage.svg": "/frontend-mentor-intermediate-job-listings/static/media/manage.5a528a96.svg",
+    "static/media/myhome.svg": "/frontend-mentor-intermediate-job-listings/static/media/myhome.aaaaa430.svg",
+    "static/media/photosnap.svg": "/frontend-mentor-intermediate-job-listings/static/media/photosnap.5a867c13.svg",
+    "static/media/shortly.svg": "/frontend-mentor-intermediate-job-listings/static/media/shortly.3c01b577.svg",
+    "static/media/the-air-filter-company.svg": "/frontend-mentor-intermediate-job-listings/static/media/the-air-filter-company.9b55f644.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.033bf420.js",
-    "static/js/2.a3315dcd.chunk.js",
-    "static/css/main.4c53af48.chunk.css",
-    "static/js/main.aff1b13d.chunk.js"
+    "static/js/runtime-main.b589f135.js",
+    "static/js/2.e0ec077f.chunk.js",
+    "static/css/main.53d8f461.chunk.css",
+    "static/js/main.c88cf4a1.chunk.js"
   ]
 }
